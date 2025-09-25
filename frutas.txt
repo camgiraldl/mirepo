@@ -1,2 +1,4 @@
 manzana
 banana
+naranja
+fresa
