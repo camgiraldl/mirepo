@@ -1,6 +1,6 @@
-Tokio
-Paris
+Berlín
 Londres
 Mdrid
+Paris
 Roma
-Berlín
+Tokio
